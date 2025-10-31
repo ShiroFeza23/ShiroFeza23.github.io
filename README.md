@@ -1,1 +1,2 @@
-# ShiroFeza23.github.io
+# Matthew Lee
+2nd year Computing Science student in the University of Alberta
